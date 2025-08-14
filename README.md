@@ -45,7 +45,7 @@ This parallel processing enables:
 ## Installation
 
 ```bash
-go get github.com/simdjson/simdjson-go
+go get github.com/biggeezerdevelopment/simdjson-go
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ package main
 
 import (
     "fmt"
-    simdjson "github.com/simdjson/simdjson-go"
+    simdjson "github.com/biggeezerdevelopment/simdjson-go"
 )
 
 type Person struct {
