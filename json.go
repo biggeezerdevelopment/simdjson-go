@@ -4,7 +4,7 @@ import (
 	"errors"
 	"io"
 	
-	"github.com/simdjson/simdjson-go/internal/scanner"
+	"github.com/biggeezerdevelopment/simdjson-go/internal/scanner"
 )
 
 var (

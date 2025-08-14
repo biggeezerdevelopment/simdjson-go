@@ -6,7 +6,7 @@ import (
 	"testing"
 	"unsafe"
 	
-	"github.com/simdjson/simdjson-go/internal/scanner"
+	"github.com/biggeezerdevelopment/simdjson-go/internal/scanner"
 )
 
 // TestMemorySafety tests memory safety of SIMD operations

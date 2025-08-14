@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"sync"
 	
-	"github.com/simdjson/simdjson-go/internal/parser"
-	internalScanner "github.com/simdjson/simdjson-go/internal/scanner"
+	"github.com/biggeezerdevelopment/simdjson-go/internal/parser"
+	internalScanner "github.com/biggeezerdevelopment/simdjson-go/internal/scanner"
 )
 
 type decoder struct {

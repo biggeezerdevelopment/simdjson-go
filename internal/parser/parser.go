@@ -6,7 +6,7 @@ import (
 	"unicode/utf8"
 	"unsafe"
 	
-	"github.com/simdjson/simdjson-go/internal/scanner"
+	"github.com/biggeezerdevelopment/simdjson-go/internal/scanner"
 )
 
 type Parser struct {
