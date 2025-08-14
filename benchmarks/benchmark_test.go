@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 	
-	simdjson "github.com/simdjson/simdjson-go"
+	simdjson "github.com/biggeezerdevelopment/simdjson-go"
 )
 
 var (
