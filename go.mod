@@ -1,4 +1,4 @@
-module github.com/simdjson/simdjson-go
+module github.com/biggeezerdevelopment/simdjson-go
 
 go 1.21
 
